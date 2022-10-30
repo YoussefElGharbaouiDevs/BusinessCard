@@ -1,0 +1,53 @@
+img{
+    width: 320px;
+    height: 325px;
+    border-radius: 5%;
+    margin-top: 44px;
+
+}
+h1{
+    color: #fff;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+}   
+h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    color: #F3BF99;
+}
+div{
+    text-align: center;
+}
+p{
+    color: #F5F5F5;
+    font-style: normal;
+    font-weight: 400;
+}
+.mail{
+    margin-right:20px;
+    padding: 10px 30px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+}
+.linkedin{
+    padding: 10px 25px;
+    background: #5093E2;
+    border: 1px solid #5093E2;
+    border-radius: 6px;
+}
+
+.buttons > button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    justify-content: center;
+    border-color: none transparent;
+}
+.dev{
+    padding-top: 0px;
+}
