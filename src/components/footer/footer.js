@@ -14,10 +14,10 @@ const Footer = () => {
     return(
         <div className="footer">
                 <footer>
-                    <a>{TwIcon}</a>
-                    <a>{FbIcon}</a>
-                    <a>{IgIcon}</a>
-                    <a>{GtIcon}</a>
+                    <a href="https://twitter.com/YoELGHARBAOUI">{TwIcon}</a>
+                    <a href="https://web.facebook.com/profile.php?id=100008730344438">{FbIcon}</a>
+                    <a href="https://www.instagram.com/ussef_gh/">{IgIcon}</a>
+                    <a href="https://github.com/YoussefElGharbaouiDevs">{GtIcon}</a>
                 </footer>
             </div>
     )

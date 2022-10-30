@@ -18,8 +18,12 @@ const Info = () => {
             <h3 className="dev">Full-Stack developer</h3>
             <p>YoussefELGHARBAOUI.tech</p>
             <div className = "buttons">
-                <button className="mail">{MailIcon}  Email</button>
-                <button className="linkedin">{LinkedinIcon}  Linkedin</button>
+                <a href="mailto: youssefelgharbaoui.pro@gmail.com" >
+                    <button className="mail">{MailIcon}  Email</button>
+                </a>
+                <a href="https://www.linkedin.com/in/youssef-el-gharbaoui-2121a4230/">
+                    <button className="linkedin">{LinkedinIcon}  Linkedin</button>
+                </a>
             </div>
         </div>
     )
